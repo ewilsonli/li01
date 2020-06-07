@@ -14,7 +14,7 @@ public class CourseController {
     //    1111
     //  22222
     //33333
-      //remote   remote 2nd
+      //remote   remote 2nd 3nd
    }
    
    /** @param course 
