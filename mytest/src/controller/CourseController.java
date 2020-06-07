@@ -11,11 +11,6 @@ public class CourseController {
    
    public String tocreateCourse() {
     return null;
-    //    1111
-    //  22222
-    //33333
-      //remote   remote 2nd 3nd
-    // local
    }
    
    /** @param course 
