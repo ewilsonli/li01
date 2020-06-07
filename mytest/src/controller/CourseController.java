@@ -12,7 +12,7 @@ public class CourseController {
    public String tocreateCourse() {
     return null;
     //local  local 
-      // i am rmote
+      // i am rmote remote
    }
    
    /** @param course 
