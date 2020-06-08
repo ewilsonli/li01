@@ -11,6 +11,7 @@ public class CourseController {
    
    public String tocreateCourse() {
     return null;
+      //  我是服务器
    }
    
   /** @param course 
