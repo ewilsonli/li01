@@ -15,7 +15,7 @@ public class CourseController {
    
    /** @param course 
     * @param teacherids */
-   public String docreateCourse2(Course course, int[] teacherids) {
+   public String docreateCourse(Course course, int[] teacherids) {
     return null;
    }
 
