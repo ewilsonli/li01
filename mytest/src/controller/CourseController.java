@@ -11,14 +11,12 @@ public class CourseController {
    
    public String tocreateCourse() {
     return null;
-    //1111
    }
    
    /** @param course 
     * @param teacherids */
    public String docreateCourse(Course course, int[] teacherids) {
-    //111
-    return null;//222
+    return null;
    }
 
 }
