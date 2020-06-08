@@ -9,7 +9,7 @@ public class CourseController {
    private CourseService courseService;
    private TeacherService teacherService;
    
-   public String tocreateCourse() {
+   public String tocreateCourse1() {
     return null;
    }
    
