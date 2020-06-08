@@ -11,7 +11,6 @@ public class CourseController {
    
    public String tocreateCourse() {
     return null;
-    //local  local 
    }
    
    /** @param course 
